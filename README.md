@@ -1,6 +1,11 @@
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
+{  
 
+* 👂 `My name is`: **Vinci**,
+* ⚡ `I'm`: **18 years old**,
+
+}
 
 ### 📋 Languages
 <img src = 'https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
