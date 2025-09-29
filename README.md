@@ -2,8 +2,8 @@
 
 {  
 
-* 👂 `My name is`: **Vinci**,
-* ⚡ `I'm`: **18 years old**,
+*  `My name is`: **Vinci**,
+*  `I'm`: **18 years old**,
 
 }
 
